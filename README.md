@@ -8,7 +8,7 @@
 #### Pokedex - Listagem Pokemon
 >Oferecido pelo Dev em Dobro (Roberto Dias e Ricardo Dias) na Semana do Zero ao Programador Contratado, no mês de Maio de 2023, onde puder aprender sobre as tags "ul" e "li" na criação dos cards para organizar os pokemons do projeto e uma função em Javascript de temas "light" e "dark" que pode ser acionada ao selecionar o ícone do sol, além disso utilizei alguns comandos git para criação desse projeto em meu perfil do Github.
 #### Desafios
->Tive como objetivo o entendimento das tags utilizadas (ul e li) para organização dos cards junto das regras CSS, utilizei também os comandos git para desenvolver as habilidades com o versionamento. Os comandos git utilizados são - Fork (no próprio Github para criação do repositório), git clone (criando o arquivo na minha máquina), git checkout -b (Criação de uma branch), git add ./ git commit -m (salvando e adicionando as modificações) e git push origin (enviando as modificações salvas para o repositório).
+>Tive como objetivo o entendimento das tags utilizadas (ul e li) para organização dos cards junto das regras CSS, função em Javascript para aplicar regras CSS quando o ícone do sol for acionado com um clique e utilizei os comandos git para desenvolver as habilidades com o versionamento. Os comandos git utilizados são - Fork (no próprio Github para criação do repositório), git clone (criando o arquivo na minha máquina), git checkout -b (Criação de uma branch), git add ./ git commit -m (salvando e adicionando as modificações) e git push origin (enviando as modificações salvas para o repositório).
 
 <br>
 
